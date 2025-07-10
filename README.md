@@ -1,6 +1,6 @@
 # RPFNet
 Source code of the paper ***"Residual Prior-driven Frequency-aware Network for Image Fusion"*** which has been accepted by ***ACM MM 2025***.
-- [[Arxive]()]
+- [[Arxive](https://arxiv.org/abs/2507.06735)]
 - Guan Zheng, Xue Wang, Wenhua Qian, Peng Liu, RunZhuo Ma
 
 # Abstract
